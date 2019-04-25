@@ -1,0 +1,50 @@
+body{
+    font-family: 'Special Elite', cursive;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+  }
+    
+  li {
+    display: inline-block;
+  }
+  section {
+    background-image: url(http://christinawilliamsblog.com/wp-content/uploads/2015/03/Flowers-1920-x-1200.png);
+    padding: 15px;
+  }
+  #container{
+    background-color:#e0396a;
+    width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  hr{
+    margin-bottom: 10px;
+  }
+  #header-container{
+  width: 960px;
+  margin: 0 auto;
+  }
+  #saraMcMullin{
+  font-family: 'Special Elite', cursive;
+  font-size: 20px;
+  background-color: #4aaaa5;
+  display: inline-block;
+  padding: 20px;
+  }
+  h2{
+    color: #4aaaa5;
+    font-family: 'Special Elite', cursive;
+  }
+  #container {
+    margin: 40px 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
