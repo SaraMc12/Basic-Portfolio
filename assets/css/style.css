@@ -28,13 +28,16 @@ ul {
   }
   
   .container{
-    background-color:#e0396a;
+   
     width: 960px;
     margin: 0 auto;
     padding: 10px;
     box-sizing: border-box;
   }
-  
+  #contact{
+    background-color:#e0396a;
+
+  }
   hr{
     margin-bottom: 10px;
   }
