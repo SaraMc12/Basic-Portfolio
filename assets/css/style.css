@@ -83,7 +83,7 @@ figure{
     width: 100%;
   }
 
-  #container2{
+  .container2{
     width: 960px;
     margin: 0 auto;
     padding: 10px;
@@ -91,8 +91,18 @@ figure{
     background-color: #e0396a;
   }
 
-  
+ .background{
+  background-image: url(http://christinawilliamsblog.com/wp-content/uploads/2015/03/Flowers-1920-x-1200.png);
+  padding: 15px;
+ } 
 
+ #cartoon{
+  border: 3px solid black;
+   
+ }
+#background2{
+  background-color:#e0396a;
+}
   /*  
 #main{
   margin:0 auto;
